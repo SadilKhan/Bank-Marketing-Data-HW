@@ -1,7 +1,7 @@
 # Group Members: 
-Md.Sadil Khan(MDS201927)
+> Md.Sadil Khan(MDS201927)
 
-Prince Kumar(MDS2019)
+> Prince Kumar(MDS2019)
 
 # Data: [Bank Marketing Data](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) 
 
@@ -12,5 +12,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 # Soultion:
 
-> Data Description:
-The data had no missing values.
+## Dataset Description:
+> The dataset has no missing values.
+
+> The class distribution is skewed heavilly.
