@@ -1,7 +1,7 @@
 # Group Members: 
 - Md.Sadil Khan(MDS201927)
 
-- Prince Kumar(MDS2019)
+- Prince Kumar(MDS201923)
 
 # Data: [Bank Marketing Data](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) 
 
