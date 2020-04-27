@@ -33,8 +33,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 ## Naive Bayes:
 *After 10-fold Cross Validation*
 - Mean Recall: 89.3%
-- Variance of Recall: ![equation](https://latex.codecogs.com/png.latex?%5Cinline%207.59%20%5Ctimes%2010%5E%7B-5%7D)
-
+- Variance of Recall: <img src="https://latex.codecogs.com/png.latex?\inline&space;7.59&space;\times&space;10^{-5}" title="7.59 \times 10^{-5}" />
 ## Decision Tree(Max Depth 12):
 *After 10-fold Cross Validation*
 - Mean Recall: 93.6%
