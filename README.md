@@ -44,3 +44,5 @@ The classification goal is to predict if the client will subscribe a term deposi
 *After 10-fold Cross Validation*
 - Mean Recall: 95.7%
 - Variance of Recall: <img src="http://www.sciweavers.org/tex2img.php?eq=%204.05%20%20%5Ctimes%2010%5E%7B-5%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" 4.05  \times 10^{-5}" width="101" height="19" />
+
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
