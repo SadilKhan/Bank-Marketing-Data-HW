@@ -13,17 +13,17 @@ The classification goal is to predict if the client will subscribe a term deposi
 # Soultion:
 
 ## Dataset Description:
-> The dataset has no missing values.
+- The dataset has no missing values.
 
-> The class distribution is skewed heavilly.
+- The class distribution is skewed heavilly.
 
 ## Data Preprocessing:
-> We deleted "contact" and "day of week" column, since this are not useful for classification.
+- We deleted "contact" and "day of week" column, since this are not useful for classification.
 
-> There are many similar values in "education","loan","default","job" and "housing" columns, so we replaced similar categories with same name.
+- There are many similar values in "education","loan","default","job" and "housing" columns, so we replaced similar categories with same name.
 
-> The column "pdays" has all values under 27 except one value,999 ,which is significantly greater than rest of the value. So we replaced it with 0.
+- The column "pdays" has all values under 27 except one value,999 ,which is significantly greater than rest of the value. So we replaced it with 0.
 
-> We used One Hot Encoder for categorical variables and then scaled the dataset along the columns.
+- We used One Hot Encoder for categorical variables and then scaled the dataset along the columns.
 
-> Since the class distribution is skewed, we used [SMOTE](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/) for over-sampling.
+- Since the class distribution is skewed, we used [SMOTE](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/) for over-sampling.
