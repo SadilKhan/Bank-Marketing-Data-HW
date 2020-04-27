@@ -31,6 +31,6 @@ The classification goal is to predict if the client will subscribe a term deposi
 # Models
 
 ## Naive Bayes:
-*After 10-fold Cross Validation
+*After 10-fold Cross Validation*
 - Mean Recall: 89.3%
 - Variance of Recall 
