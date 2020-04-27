@@ -1,7 +1,7 @@
 # Group Members: 
-> Md.Sadil Khan(MDS201927)
+- Md.Sadil Khan(MDS201927)
 
-> Prince Kumar(MDS2019)
+- Prince Kumar(MDS2019)
 
 # Data: [Bank Marketing Data](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) 
 
@@ -27,3 +27,10 @@ The classification goal is to predict if the client will subscribe a term deposi
 - We used One Hot Encoder for categorical variables and then scaled the dataset along the columns.
 
 - Since the class distribution is skewed, we used [SMOTE](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/) for over-sampling.
+
+# Models
+
+## Naive Bayes:
+*After 10-fold Cross Validation
+- Mean Recall: 89.3%
+- Variance of Recall 
